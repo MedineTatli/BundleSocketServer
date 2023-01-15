@@ -1,0 +1,13 @@
+main\com\bundle\service\SocketListenerService.class
+main\BundleSocketServerApplication.class
+main\com\bundle\model\document\BundleDocument$BundleDocumentBuilder.class
+main\com\bundle\model\document\BundleDocument.class
+main\com\bundle\service\BundleDataConsumer.class
+main\com\bundle\configration\mongodb\MongoConfiguration.class
+main\com\bundle\configration\rabbitmq\RabbitQueueConfiguration.class
+main\com\bundle\configration\rabbitmq\RabbitConnectionConfiguration.class
+main\com\bundle\configration\rabbitmq\RabbitExchangeConfiguration.class
+main\com\bundle\persistence\BundleRepository.class
+main\com\bundle\cron\SocketListener.class
+main\com\bundle\configration\rabbitmq\RabbitBindingConfiguration.class
+main\com\bundle\configration\rabbitmq\RabbitListenerConfiguration.class
